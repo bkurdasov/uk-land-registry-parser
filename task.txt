@@ -1,0 +1,11 @@
+https://www.odesk.com/jobs/Python-code-scrape-web-form_~01a3e7a9a349f362e2
+
+I'd like some Python code that does the following:
+
+1. For a list of title numbers (e.g. ['SY501298', 'SY729349']) posts each title number to the form [1].
+2. For each title number, scrapes the Address and Tenure fields from the results page.
+3. Writes the output to a CSV file. NB: Each line of the Address field should be saved as a separate column in the CSV file.
+
+I don't mind which Python scraping library this uses. I'm looking for delivery as soon as possible.
+
+[1] Form URL: http://eservices.landregistry.gov.uk/www/wps/portal/!ut/p/b1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKNjSxMDA1NjDwsjM3MDTxN3dyNDUNMjQ1MjIEKIvEocDckpD84NU8_XD8KTZm_m6OBp7GTv7e7caCRgYEZhgJUcyyMCCgAuQOswAAHcDTQ9_PIz03VL8iNqPDMDEgHAAblRA0!/dl4/d5/L0lDU0lKSmdrS0NsRUpDZ3BSQ2dwUkNTQS9ZSVVJQUFJSUlJTU1JS0VFQUFDR09HT0NHSUJKRkpGQkpORE5EQk5ISUVBTExBISEvNEczYUQyZ2p2eWhDa3lGTU5RaWt5RktOUmprS2NhZ21Rb2dnL1o3XzMyODQxMTQySDgzNjcwSTVGRzMxVDUzOFY0LzAvaWJtLmludi8yNzQzNjAxNzcwMDMvc3BmX0FjdGlvbk5hbWUvc3BmX0FjdGlvbkxpc3RlbmVyL3NwZl9zdHJ1dHNBY3Rpb24vITJmRGV0YWlsZWRFbnF1aXJ5SW5pdC5kbw!!/
